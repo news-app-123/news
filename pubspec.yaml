@@ -1,0 +1,28 @@
+name: newsapp
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/2_TOPSHOT-BRITAIN-ROYALS-CORONATION.webp
+    - assets\kate-middleton-2-cw-240612-571e8f.webp
+    - assets\6007df93be0bb-2-6006c7322e046__700.jpg
+    - assets\maf_20220830_ksc_artemis1_epb_005_large.webp
